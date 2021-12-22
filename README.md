@@ -6,12 +6,12 @@
 
 
 2. git bash 연결
-
+```
  -git config --global user.name 계정
 
 
  -git config --global user.email 이메일 
-
+```
 
 
 - 만든파일에 git init 해주기
@@ -26,6 +26,7 @@
 
 + commit 메세지 규칙  ex)chore:코드수정
 
+```
 -feat : 새로운 기능에 대한 커밋
 
 
@@ -51,7 +52,7 @@
 
 
 -test : 테스트 코드 수정에 대한 커밋
-
+```
 6. git push 해주기
 
 
