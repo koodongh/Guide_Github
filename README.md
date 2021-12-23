@@ -85,7 +85,7 @@
     1. git branch 
     2. git branch 사용할 이름
     3. git checkout 사용할 이름 - branch 변경
-    4. git pull origin 사용할 이름
+    4. git pull origin main `사용할 이름이 아님 이유:아직 github에 branch 사용할이름이 업로드 되지 않음`
     5. git status 깃 상태확인
     6. 내용수정
     7. git add 수정한 파일
